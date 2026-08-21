@@ -78,14 +78,15 @@ Sales and quantity were analyzed across **Electronics and Accessories** categori
 
 ## 📊 Power BI Dashboard
 
-The Power BI dashboard includes interactive filters for:
+![Power BI Sales Dashboard](Images/Sales_Dashboard_PowerBI.png)
 
-* Region
-* Category
-* Product
-* Order Month
+The Power BI dashboard provides interactive analysis of sales performance by region, month, product, customer, and category.
 
-The dashboard combines KPI cards with charts to provide a concise view of overall sales performance.
+## 📈 Excel Dashboard
+
+![Excel Sales Dashboard](Images/Sales_Dashboard_Excel.png)
+
+The Excel dashboard includes sales analysis using charts, formulas, Pivot Tables, VLOOKUP, and HLOOKUP.
 
 ## 🧮 Excel Analysis
 
