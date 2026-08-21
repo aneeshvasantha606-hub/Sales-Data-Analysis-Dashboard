@@ -12,6 +12,7 @@ The dashboard provides insights into sales performance across regions, categorie
 * Power BI
 * Python
 * Pandas
+* SQL
 * Matplotlib
 * Excel Formulas
 * VLOOKUP & HLOOKUP
@@ -31,8 +32,11 @@ Sales-Data-Analysis-Dashboard/
 │   └── Sales_Dashboard.xlsx
 │
 ├── PowerBI/
-│   └── Sales_Dashboard.pbix
-│
+|   └── Sales_Dashboard.pbix
+|
+├── SQL/
+│   └── Sales_Dataset_Queries.sql
+|
 ├── Python/
 │   └── sales_dataset.py
 │
